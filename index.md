@@ -3,8 +3,6 @@
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
 ***
-[K-Means Project](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/Projects/Mahfuzur_K_Means_Project.ipynb)
-
 [Linear Regression ](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
 
 [Logistic Regression](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)

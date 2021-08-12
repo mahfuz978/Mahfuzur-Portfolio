@@ -5,7 +5,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 [K-Means Project](./Projects/Mahfuzur_K_Means_Project.ipynb)
 
-[Linear Regression ](./Projects/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
+[Linear Regression ](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
 
 [Logistic Regression](./Projects/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
 

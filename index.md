@@ -4,6 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 [House_Price_Prediction](https://github.com/mahfuz978/Kaggle-Challenge/blob/main/Final/Mahfuzur_House_Price_Prediction_Project.ipynb)
+<img src="images/House_Price_Prediction.jpg?raw=true"/>
 
 [K_Means_Project](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 

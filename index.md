@@ -8,9 +8,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [K_Means_Project](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 
-<img src="images/Define-and-understand-target-audience.png?raw=true"/>
-
 <img src="images/how-to-find-your-target-audience-header.png?raw=true"/>
+
+<img src="images/Define-and-understand-target-audience.png?raw=true"/>
 
 [Linear Regression ](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
 

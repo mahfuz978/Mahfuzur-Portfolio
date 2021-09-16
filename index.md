@@ -3,16 +3,19 @@
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
 ***
-[House_Price_Prediction](https://github.com/mahfuz978/Kaggle-Challenge/blob/main/Final/Mahfuzur_House_Price_Prediction_Project.ipynb)
+[What other factors besides the number of bedrooms can influence price of a House](https://github.com/mahfuz978/Kaggle-Challenge/blob/main/Final/Mahfuzur_House_Price_Prediction_Project.ipynb)
+
 <img src="images/House_Price_Prediction.jpg?raw=true"/>
 
-[K_Means_Project](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
+[Understanding how policies can be improved for employee benefits](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 
 <img src="images/how-to-find-your-target-audience-header.png?raw=true"/>
 
 <img src="images/Define-and-understand-target-audience.png?raw=true"/>
 
-[Linear Regression ](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
+
+<img src="images/seoul-bikes.jpeg?raw=true"/>
 
 [Logistic Regression](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
 

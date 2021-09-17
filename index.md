@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Image regognition using Convolutional Neural Network](https://github.com/mahfuz978/Deep-Neural-Network/blob/main/Mahfuzur_Rahman_CNN_project.ipynb)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png?raw=true"/>
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
 

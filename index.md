@@ -17,7 +17,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-[Logistic Regression](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
+[How a target clients for a particular marketing campaign using many specific features](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
+
+<img src="images/Classification.png?raw=true"/>
 
 [Image regognition using Convolutional Neural Network](https://github.com/mahfuz978/Deep-Neural-Network/blob/main/Mahfuzur_Rahman_CNN_project.ipynb)
 

@@ -9,9 +9,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, pandas, sklearn, numpy, matplotlib, seaborn
 
-**Project Objective:** 
+**Project Objective:** Create a linear model using the provided data. The model needs to acquire an accurate price prediction of a house using the provided features.
 
-**Quantifiable result:**
+**Quantifiable result:** 
 
 [Understanding how policies can be improved for employee benefits](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 

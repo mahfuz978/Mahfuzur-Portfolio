@@ -19,17 +19,41 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Define-and-understand-target-audience.png?raw=true"/>
 
+**Skills used:**
+
+**Project Objective:**
+
+**Quantifiable result:**
+
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
+
+**Skills used:**
+
+**Project Objective:**
+
+**Quantifiable result:**
 
 [How a target clients for a particular marketing campaign using many specific features](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
 
 <img src="images/Classification.png?raw=true"/>
 
+**Skills used:**
+
+**Project Objective:**
+
+**Quantifiable result:**
+
 [Image regognition using Convolutional Neural Network](https://github.com/mahfuz978/Deep-Neural-Network/blob/main/Mahfuzur_Rahman_CNN_project.ipynb)
 
 <img src="images/Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png?raw=true"/>
+
+**Skills used:**
+
+**Project Objective:**
+
+**Quantifiable result:**
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
 

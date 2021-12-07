@@ -11,7 +11,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Create a linear model using the provided data. The model needs to acquire an accurate price prediction of a house using the provided features.
 
-**Quantifiable result:** 
+**Quantifiable result:** My model was able to acquire a validation score of 92%.
+- I used an XGBoost model to achieve the highest score
+- A combinantion of GridSearchCV and My own Parameter Tuning.
 
 [Understanding how policies can be improved for employee benefits](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 

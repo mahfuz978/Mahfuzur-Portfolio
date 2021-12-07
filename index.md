@@ -3,13 +3,13 @@
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
 ***
-[What other factors besides the number of bedrooms can influence price of a House](https://github.com/mahfuz978/Kaggle-Challenge/blob/main/Final/Mahfuzur_House_Price_Prediction_Project.ipynb)
+[**What other factors besides the number of bedrooms can influence price of a house**](https://github.com/mahfuz978/Kaggle-Challenge/blob/main/Final/Mahfuzur_House_Price_Prediction_Project.ipynb)
 
 <img src="images/House_Price_Prediction.jpg?raw=true"/>
 
-**Skills used:**
+**Skills used:** Python, pandas, sklearn, numpy, matplotlib, seaborn
 
-**Project Objective:**
+**Project Objective:** 
 
 **Quantifiable result:**
 

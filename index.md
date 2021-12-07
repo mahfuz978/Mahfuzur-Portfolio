@@ -7,6 +7,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/House_Price_Prediction.jpg?raw=true"/>
 
+**Skills used:** 
+**Project Objective:**
+**Quantifiable result:**
+
 [Understanding how policies can be improved for employee benefits](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 
 <img src="images/how-to-find-your-target-audience-header.png?raw=true"/>

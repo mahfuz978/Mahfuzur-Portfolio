@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - The training score was a very high 96%.
 - My error margin was also calculated using the proper metrics.
 
-[How a target clients for a particular marketing campaign using many specific features](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
+[How a target clients for a particular marketing campaign using many specific features](https://github.com/mahfuz978/Classification-Regression/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
 
 <img src="images/Classification.png?raw=true"/>
 

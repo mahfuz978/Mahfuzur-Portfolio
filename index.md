@@ -41,7 +41,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Create a linear model and identify what features affects the number of bikes rented.
 
-**Quantifiable result:** 
+**Quantifiable result:** I was able to achieve a validation score of 74% using Bagging Model.
+- I used the the highest correlated Data.
+- I normalized my data in order to achieve a more accurate result.
+- The training score was a very high 96%.
+- My error margin was also calculated using the proper metrics.
 
 [How a target clients for a particular marketing campaign using many specific features](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
 

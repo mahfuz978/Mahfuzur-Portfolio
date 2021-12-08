@@ -9,11 +9,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, pandas, sklearn, numpy, matplotlib, seaborn
 
-**Project Objective:** Create a linear model using the provided data. The model needs to acquire an accurate price prediction of a house using the provided features.
+**Project Objective:** Create a linear model using the provided data. The model needs to acquire an accurate final price prediction of a house using the provided features.
 
 **Quantifiable result:** My model was able to acquire a validation score of 92%.
-- I used an XGBoost model to achieve the highest score
-- A combinantion of GridSearchCV and My own Parameter Tuning.
+- I used an XGBoost model to achieve the highest score.
+- A combinantion of GridSearchCV and my knowledge was used to tune my models.
+- I tested with multiple different models.
+- Used a pipeline to speed up my models.
 
 [Understanding how policies can be improved for employee benefits](https://github.com/mahfuz978/Mahfuzur-Portfolio/blob/main/Projects/Mahfuzur_K_Means_Project.ipynb)
 
@@ -21,7 +23,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Define-and-understand-target-audience.png?raw=true"/>
 
-**Skills used:**
+**Skills used:** 
 
 **Project Objective:**
 

@@ -23,21 +23,25 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Define-and-understand-target-audience.png?raw=true"/>
 
-**Skills used:** 
+**Skills used:** Python, sklearn, pandas, numpy, scipy, matplotlib, seaborn
 
-**Project Objective:**
+**Project Objective:** Clean and organize the given data. Then, Cluster the data using a clustering algorithm and find a meaning or a message from the data.  
 
-**Quantifiable result:**
+**Quantifiable result:** I was able to get 5 solid clusters.
+- I used to the elbow method to certify the clusters.
+- During the EDA I was able to reduce a lot of noises.
+- I used data that was withing 2 standard deviation.
+- I used WCSS algorithm to detrmine the optimal number of clusters.
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-**Skills used:**
+**Skills used:** Python, pandas, numpy, matplotlib, plotly
 
-**Project Objective:**
+**Project Objective:** Create a linear model and identify what features affects the number of bikes rented.
 
-**Quantifiable result:**
+**Quantifiable result:** 
 
 [How a target clients for a particular marketing campaign using many specific features](https://github.com/mahfuz978/Regression-Classification/blob/main/Logistic_Regression/Mahfuzur_Rahman_Logistic_Regression_Project.ipynb)
 

@@ -31,7 +31,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - I used to the elbow method to certify the clusters.
 - During the EDA I was able to reduce a lot of noises.
 - I used data that was withing 2 standard deviation.
-- I used WCSS algorithm to detrmine the optimal number of clusters.
+- I used WCSS algorithm to determine the optimal number of clusters.
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mahfuz978/Regression-Classification/blob/main/Linear_Regression/Mahfuzur_Rahman_Linear_Regression_Project.ipynb)
 
